@@ -6,7 +6,7 @@ import Button from './Button'
 import Input from './Input'
 import PostCard from './PostCard'  
 import Select from './Select'
-
+import Signup from './Signup'
 export {
     Header,
     Footer,
@@ -15,5 +15,6 @@ export {
     Button,
     Input,
     PostCard,
-    Select
+    Select,
+    Signup
 }
